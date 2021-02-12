@@ -1,0 +1,8 @@
+this is version 1 of my project
+i want this to go to commit 2
+change by nikhil
+this is again changed
+now again change
+wow without staging area comittted
+changes going on
+
